@@ -80,7 +80,76 @@
   ],
   "awards": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Industry knowledge",
+      "keywords": [
+        "Full-Stack Development",
+        "Internet of Things (IoT)",
+        "E-Commerce",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "C"
+      ]
+    },
+    {
+      "name": "Back-End Web development",
+      "keywords": [
+        "Django",
+        "Celery",
+        "SQLAlchemy",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Front-End Web development",
+      "keywords": [
+        "Vue.js",
+        "React.js",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "API development",
+      "keywords": [
+        "REST",
+        "gRPC",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "PostgreSQL",
+        "Redis",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Software development",
+      "keywords": [
+        "Agile Methodologies",
+        "Git (Github and Gitlab)",
+        "Domain-Driven Design (DDD)"
+      ]
+    },
+    {
+      "name": "Software deployment",
+      "keywords": [
+        "Docker",
+        "Linux",
+        "Amazon Web Services (AWS)"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "English",
