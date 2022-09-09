@@ -8,12 +8,6 @@
     "phone": "(+34) 608828790",
     "url": "https://www.github.com/manumarquezg/",
     "summary": "Computer engineer with more than 3 years of extensive experience in developing Full Stack end-to-end solutions for IoT devices and E-commerce applications. Solid technical knowledge of modern backend and frontend technologies, REST and GraphQL API development, Python and TypeScript languages, Django and Vue.js frameworks, Linux, Git and Docker.",
-    "location": {
-      "city": "Salamanca",
-      "countryCode": "ES",
-      "postalCode": "37006",
-      "region": "Spain"
-    },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -37,7 +31,7 @@
       "url": "https://www.linkedin.com/company/3499513",
       "website": "https://www.linkedin.com/company/3499513",
       "startDate": "2021-12-31",
-      "endDate": "2022-09-06",
+      "endDate": "",
       "summary": "Full Stack engineer working on a E-commerce application for an international wholesale management platform.",
       "highlights": []
     },
