@@ -4,7 +4,9 @@
     "jsonresume-theme-paper": "^0.5.0",
     "resume-cli": "^3.0.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  },
   "scripts": {
     "serve:paper": "resume serve --theme paper",
     "serve:flat": "resume serve --theme flat",
@@ -14,7 +16,11 @@
     "export:flat:pdf": "resume export --theme flat exports/resume-flat.pdf",
     "export:flat:html": "resume export --theme flat exports/resume-flat.html",
     "export:flat": "npm run export:flat:pdf && npm run export:flat:html",
-    "export": "npm run export:paper && npm run export:flat"
+    "export": "npm run export:paper && npm run export:flat",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major"
   },
   "repository": {
     "type": "git",
