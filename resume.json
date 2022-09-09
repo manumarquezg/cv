@@ -1,19 +1,29 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "",
-    "label": "",
+    "name": "Manuel Márquez García",
+    "label": "Full Stack Engineer working on IoT and E-commerce solutions.",
     "image": "",
-    "email": "",
-    "phone": "",
-    "url": "",
-    "summary": "",
-    "location": {},
+    "email": "manumarquez96@gmail.com",
+    "phone": "(+34) 608828790",
+    "url": "https://www.github.com/manumarquezg/",
+    "summary": "Computer engineer with more than 3 years of extensive experience in developing Full Stack end-to-end solutions for IoT devices and E-commerce applications. Solid technical knowledge of modern backend and frontend technologies, REST and GraphQL API development, Python and TypeScript languages, Django and Vue.js frameworks, Linux, Git and Docker.",
+    "location": {
+      "city": "Salamanca",
+      "countryCode": "ES",
+      "postalCode": "37006",
+      "region": "Spain"
+    },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "manumarquezg",
+        "url": "https://www.linkedin.com/in/manumarquezg/"
+      },
+      {
+        "network": "GitHub",
+        "username": "manumarquezg",
+        "url": "https://www.github.com/manumarquezg/"
       }
     ]
   },
