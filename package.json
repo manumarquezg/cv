@@ -6,7 +6,15 @@
   },
   "devDependencies": {},
   "scripts": {
-    "serve": "resume serve --theme flat"
+    "serve:paper": "resume serve --theme paper",
+    "serve:flat": "resume serve --theme flat",
+    "export:paper:pdf": "resume export --theme paper exports/resume-paper.pdf",
+    "export:paper:html": "resume export --theme paper exports/resume-paper.html",
+    "export:paper": "npm run export:paper:pdf && npm run export:paper:html",
+    "export:flat:pdf": "resume export --theme flat exports/resume-flat.pdf",
+    "export:flat:html": "resume export --theme flat exports/resume-flat.html",
+    "export:flat": "npm run export:flat:pdf && npm run export:flat:html",
+    "export": "npm run export:paper && npm run export:flat"
   },
   "repository": {
     "type": "git",

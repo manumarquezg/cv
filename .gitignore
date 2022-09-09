@@ -1,3 +1,6 @@
+# Resume exports
+exports/resume*
+
 # Public
 public/
 
