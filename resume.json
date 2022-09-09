@@ -27,7 +27,34 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Nomasystems",
+      "company": "Nomasystems",
+      "location": "",
+      "description": "",
+      "position": "Full Stack Engineer",
+      "url": "https://www.linkedin.com/company/3499513",
+      "website": "https://www.linkedin.com/company/3499513",
+      "startDate": "2021-12-31",
+      "endDate": "2022-09-06",
+      "summary": "Full Stack engineer working on a E-commerce application for an international wholesale management platform.",
+      "highlights": []
+    },
+    {
+      "name": "SIDISEL",
+      "company": "SIDISEL",
+      "location": "Salamanca, Spain",
+      "description": "",
+      "position": "Full Stack Engineer",
+      "url": "https://www.linkedin.com/company/5206560",
+      "website": "https://www.linkedin.com/company/5206560",
+      "startDate": "2019-02-28",
+      "endDate": "2021-12-31",
+      "summary": "Full Stack engineer working on providing end to end solutions for IoT devices.",
+      "highlights": []
+    }
+  ],
   "volunteer": [],
   "education": [
     {
