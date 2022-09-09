@@ -33,7 +33,20 @@
   "awards": [],
   "publications": [],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Elementary proficiency"
+    }
+  ],
   "interests": [],
   "references": [],
   "projects": [],
