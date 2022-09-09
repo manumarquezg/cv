@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "resume-cli": "^3.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manumarquezg/cv.git"
+  }
+}
