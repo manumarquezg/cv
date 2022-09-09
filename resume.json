@@ -29,7 +29,28 @@
   },
   "work": [],
   "volunteer": [],
-  "education": [],
+  "education": [
+    {
+      "institution": "Universidad de Salamanca",
+      "url": "https://www.linkedin.com/school/universidad-de-salamanca/",
+      "area": "Computer Science",
+      "studyType": "Computer Engineering",
+      "startDate": "2015-12-31",
+      "endDate": "2019-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lahti University of Applied Sciences",
+      "url": "https://www.linkedin.com/school/lahti-university-of-applied-sciences/",
+      "area": "Computer Science",
+      "studyType": "Computer Engineering",
+      "startDate": "2018-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
   "awards": [],
   "publications": [],
   "skills": [],
